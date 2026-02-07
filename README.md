@@ -50,5 +50,7 @@
 <div align="center">
   <img src="/dino.gif" alt="dino gif" height="30%" width="50%"/>
 </div>
+####
 
+<img src="https://github.com/makersmecca/DiscordFileStore/blob/filestore/src/footercat.svg"/>
 
